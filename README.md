@@ -26,7 +26,7 @@ It generates random combinations of characters according to your chosen preferen
 
  1. Install Python
 Download and install Python from python.org.
-2. Clone This Repository
+2. Clone This Repository https://github.com/Nayansh78/OIBSIP_PythonProgramming_tasknumber3
 3. Run The Program
    python passwordgenertor.py
    
